@@ -1,6 +1,6 @@
 {
   "name": "keycodex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a javaScript library for easy integration and usage of keyboard keys on websites.",
   "main": "gulpfile.js",
   "scripts": {
