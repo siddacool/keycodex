@@ -11,6 +11,7 @@ Spacebar | 32 | `key.space`
 A | 65 | `key.char.a`
 Numpad 9 | 105 | `key.numpad.nine`
 F3 | 114 | `key.f3`
+[....Complete KeyCodeX Reference](https://github.com/siddacool/keycodex/wiki/Key-Reference)
 
 **Example KeyCode for 'Enter'**
 
@@ -35,6 +36,7 @@ document.onkeydown = function(e) {
 };
 
 ```
+
 ## Downloads
 [Github releases](https://github.com/siddacool/keycodex/releases)
 
