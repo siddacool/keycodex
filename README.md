@@ -10,6 +10,7 @@ Enter | 13 | `key.enter`
 Spacebar | 32 | `key.space`
 A | 65 | `key.char.a`
 Numpad 9 | 105 | `key.numpad.nine`
+F3 | 114 | `key.f3`
 
 **Example KeyCode for 'Enter'**
 
