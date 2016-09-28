@@ -13,12 +13,11 @@ Spacebar | 32 | `key.space`
 A | 65 | `key.char.a`
 Numpad 9 | 105 | `key.numpad.nine`
 
-### Example KeyCode for 'Enter'
+**Example KeyCode for 'Enter'**
 
-Regular Way
 ```
+\\ Regular js keyCode
 \\ keycode for 'Enter' is '13'
-\\ Usage
 document.onkeydown = function(e) {
     switch (e.keyCode || e.which) {
         case 13:
@@ -26,13 +25,8 @@ document.onkeydown = function(e) {
             break;
     }
 };
-```
-
-using KeyCodeX
-
-```
+\\ KeyCodeX Way
 \\ use 'key.enter' for 'Enter'
-\\ Usage
 document.onkeydown = function(e) {
     switch (e.keyCode || e.which) {
         case key.enter:
