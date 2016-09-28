@@ -34,3 +34,9 @@ document.onkeydown = function(e) {
 };
 
 ```
+## Downloads
+[Github releases](https://github.com/siddacool/keycodex/releases)
+
+## Reference URLs
+* https://css-tricks.com/snippets/javascript/javascript-keycodes/
+* http://keycode.info/
