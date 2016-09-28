@@ -4,9 +4,7 @@ a light-weight, zero dependency, JavaScript library for easy integration and usa
 it basically provides user with **simple nomenclature based on keys names** so their is no need to memorize numeric keycodes.
 
 ## Demo
-
-### Regular js 'keyCode' vs KeyCodeX
-Key Name | keyCode | KeyCodeX
+Key Name | Javascript keyCode | KeyCodeX
 --- | --- | ---
 Enter | 13 | `key.enter`
 Spacebar | 32 | `key.space`
