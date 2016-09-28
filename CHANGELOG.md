@@ -8,13 +8,5 @@ KeyCodeX is javaScript library for easy integration and usage of keyboard keys o
 - Addition: Arrow keys
 - Addition: Numpad keys
 
-## Version 0.0.1 (2016-09-26)
-
-- Addition: Basic keys.
-- Addition: Function keys (F1-F12).
-- Addition: Alphabet keys.
-- Addition: key detect function.
-- Edition Add: minified version.
-
 
 
