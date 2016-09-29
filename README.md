@@ -1,7 +1,6 @@
 # KeyCodeX
 
-a light-weight, zero dependency, JavaScript library for easy integration and usage of **keyboard keys** on websites. 
-it basically provides user with **simple nomenclature based on keys names** so their is no need to memorize numeric keycodes.
+a light-weight, zero dependency, JavaScript library for easy integration and usage of **keyboard keys** on websites.
 
 ## keyCode vs KeyCodeX
 Key Name | javaScript keyCode | KeyCodeX variant
