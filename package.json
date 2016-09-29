@@ -1,6 +1,6 @@
 {
   "name": "keycodex",
-  "version": "0.0.2",
+  "version": "1.0",
   "description": "a javaScript library for easy integration and usage of keyboard keys on websites.",
   "main": "gulpfile.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "keyboard",
     "key codes",
-    "key detection"
+    "key detection",
+    "keyCode"
   ],
   "author": "Siddhesh Mangela",
   "license": "ISC",
