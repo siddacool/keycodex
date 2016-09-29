@@ -14,16 +14,11 @@ F3 | 114 | `key.f3`
 [....Complete KeyCodeX Reference](https://github.com/siddacool/keycodex/wiki/Key-Reference)
 
 ## Downloads
+
 [Github releases](https://github.com/siddacool/keycodex/releases)
 
 ## Docs
-KeyCodeX documentation wiki on github
 
-1. [wiki home](https://github.com/siddacool/keycodex/wiki/)
-2. [Key Reference](https://github.com/siddacool/keycodex/wiki/Key-Reference)
+KeyCodeX documentation [GitHub wiki](https://github.com/siddacool/keycodex/wiki/)
 
 --
-
-#### Reference URLs
-* https://css-tricks.com/snippets/javascript/javascript-keycodes/
-* http://keycode.info/
