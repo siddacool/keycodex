@@ -2,7 +2,7 @@
 
 a light-weight, zero dependency, JavaScript library for easy integration and usage of **keyboard keys** on websites.
 
-## keyCode vs KeyCodeX
+### keyCode vs KeyCodeX
 Key Name | javaScript keyCode | KeyCodeX variant
 --- | --- | ---
 Enter | 13 | `key.enter`
