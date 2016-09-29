@@ -21,4 +21,3 @@ F3 | 114 | `key.f3`
 
 KeyCodeX documentation [GitHub wiki](https://github.com/siddacool/keycodex/wiki/)
 
---
