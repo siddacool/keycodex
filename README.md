@@ -17,7 +17,9 @@ F3       | 114                | `key.f3`
 
 ## Downloads
 
-[Github releases](https://github.com/siddacool/keycodex/releases)
+[Latest release](https://github.com/siddacool/keycodex/releases/download/v1.1/keycodex-1.1-complete.zip)
+
+[Previous releases](https://github.com/siddacool/keycodex/releases)
 
 ## Docs
 
